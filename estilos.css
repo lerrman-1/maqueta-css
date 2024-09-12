@@ -55,6 +55,10 @@ p{
     grid-column: 4/7;
     text-align: right;
     padding-left: 200px;
+    background-image: url(./hoja4.jpg);
+    background-position: center;
+    background-size: auto;
+    color: #fff;
 }
 .bauhaus-box:nth-of-type(5) h1{
     line-height: 1.1em;
@@ -78,13 +82,13 @@ p{
 
 
 .bauhaus-box-red{
-    background: #ee4b42;
+    background: #eb6614;
 }
 .bauhaus-box-blue{
-    background: #4273ed;
+    background: #dc13e2;
 }
 .bauhaus-box-yellow{
-    background: #f6cb47;
+    background: #f4e80a;
 }
 .bauhaus-box-white{
     background: #fff;
